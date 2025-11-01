@@ -23,7 +23,7 @@ Este repositório contém 9 diagramas UML completos:
 6. **Comunicação** - Colaboração entre objetos
 7. **Atividades** - Fluxo completo do processo
 8. **Componentes** - Arquitetura lógica
-9. **Deployment** - Topologia física do sistema
+9. **Execução** - Topologia física do sistema
 
 ## 🔗 Visualizar
 
@@ -43,7 +43,3 @@ Este repositório contém 9 diagramas UML completos:
 - **CSS3** - Estilização
 - **Mermaid.js** - Renderização de diagramas UML
 - **GitHub Pages** - Hospedagem
-
-## 📄 Licença
-
-Desenvolvido para fins acadêmicos - 2025
